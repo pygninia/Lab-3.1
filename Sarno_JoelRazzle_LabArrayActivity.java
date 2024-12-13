@@ -25,8 +25,10 @@ public class Sarno_JoelRazzle_LabArrayActivity {
         System.out.println("Type 0 for Sum and Average of an Array");
         System.out.println("Type 1 for Maximum and Minimum Element Finder");
         System.out.println("Type 2 for Reverse an Array");
-        System.out.println("Type 3 for Frequency Counter");
+        System.out.println("Type 3 for Frequency Counter\n");
+        System.out.println("Type a number you want to try:");
 
+        
         // Read the user's choice
         int choice = input.nextInt();
 
